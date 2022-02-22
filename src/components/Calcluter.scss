@@ -1,0 +1,22 @@
+.row{
+    .col-3{
+        table{
+            tr{
+                td{
+                    input{
+                        margin-right: 10px;
+                    }
+                    button{
+                        margin-right: 15px;
+                        padding: 10px;
+                        width: 60px;
+                        // :first-child {
+                        //     margin-right: 0;
+                        //     padding: 0;
+                        //   }
+                    }
+                }
+            }
+        }
+    }
+}
